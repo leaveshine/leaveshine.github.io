@@ -1,18 +1,18 @@
 # Site settings
 title: LeaveShine-骊醒的个人blog
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
+description: '腰有十文，必振衣作响；得见美人，必急纳入帐。此我求学之道也。'
+url: 'http://leaveshine.me'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: '瞿骊醒'
+  email: qulixing888@163.com
+  twitter_username: none
+  facebook_username: 瞿骊醒
+  github_username:  leaveshine
+  linkedin_username:  none
 
 defaults:
   -
