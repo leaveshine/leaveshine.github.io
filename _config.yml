@@ -1,5 +1,5 @@
 # Site settings
-title: LeaveShine-骊醒的个人blog
+title: LeaveShine|骊醒的个人blog
 description: '腰有十文，必振衣作响；得见美人，必急纳入帐。此我求学之道也。'
 url: 'http://leaveshine.me'
 baseurl: '/'
@@ -12,7 +12,7 @@ author:
   twitter_username: none
   facebook_username: 瞿骊醒
   github_username:  leaveshine
-  linkedin_username:  none
+  linkedin_username:  瞿骊醒
 
 defaults:
   -
