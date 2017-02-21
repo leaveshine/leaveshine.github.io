@@ -1,45 +1,36 @@
-# jekyll-uno
+# 酉生之日的个人博客
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+[blog](https://leaveshine.me).leaveshine - 逆光生长，向死而生
 
-> :warning:
-  This theme requires ruby and rubygems installed
+> Okay,okay,I see.
 
-### Features
+> 好了好了，我知道了。
 
-* Clean layout
-* Resposive layout
-* Pagination
-* Syntax highlighting
-* Social links
-* Tags listing page
-* Categories listing page
-* Google Analytics integration
-* Disqus integration
+>那么，正文开始。
 
----
+### 为美好的模板献上感谢！
 
-### Install and Test
+首先感谢[Josh Gerdes](https://github.com/joshgerdes)，提供模板和思路，感谢你的开源精神。谢谢！
 
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
-2. Enter the folder: `cd jekyll-uno/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
+其次，我要感谢慕老师[movesan杨慕杉](http://movesan.me/)，作为多年好友，不辞辛苦的多次为我解惑，虽然他自己也是个半吊子(大雾)。
 
-Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
+最后，感谢来到这里的你，不论你来自哪里，既然到了我家，那我们就是朋友。
 
----
+有谁会不点朋友的follow呢？
 
-### Demo and Download
+-------------
 
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
+### 关于搭建教程
 
-![jekyll-uno - free Jekyll theme](/screenshot.png)
+[Github Pages + Jekyll 独立博客一小时快速搭建&上线指南](http://playingfingers.com/2016/03/26/build-a-blog/)
+
+感谢[chaosinmotion](https://github.com/chaosinmotion)
+
+
+
+
 
 ---
+(仅代表个人观点，侵删)
 
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
+ 以上
